@@ -67,6 +67,12 @@
    "resources" : {
       "bugtracker" : {
          "web" : "http://github.com/klp2/Code-TidyAll-Plugin-SortLines-IPAddresses/issues"
+      },
+      "homepage" : "https://github.com/klp2/Code-Tidyall-Plugin-Sortlines-IPAddresses",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/klp2/Code-Tidyall-Plugin-Sortlines-IPAddresses.git",
+         "web" : "https://github.com/klp2/Code-Tidyall-Plugin-Sortlines-IPAddresses"
       }
    },
    "version" : "0.0.1",

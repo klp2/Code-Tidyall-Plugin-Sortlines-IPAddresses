@@ -35,5 +35,7 @@ requires:
   warnings: '0'
 resources:
   bugtracker: http://github.com/klp2/Code-TidyAll-Plugin-SortLines-IPAddresses/issues
+  homepage: https://github.com/klp2/Code-Tidyall-Plugin-Sortlines-IPAddresses
+  repository: https://github.com/klp2/Code-Tidyall-Plugin-Sortlines-IPAddresses.git
 version: 0.0.1
 x_serialization_backend: 'YAML::Tiny version 1.70'

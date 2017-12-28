@@ -1,0 +1,16 @@
+SYNOPSIS
+
+       # In configuration:
+    
+       [SortLines::IPAddresses]
+       select = file_with_ip_addresses
+
+DESCRIPTION
+
+    Sorts the lines of a file with one IP address per line.
+
+ACKNOWLEDGEMENTS
+
+    This code was essentially pilfered from
+    Code::TidyAll::Plugin::SortLines
+

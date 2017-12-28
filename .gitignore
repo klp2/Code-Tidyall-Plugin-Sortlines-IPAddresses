@@ -1,0 +1,5 @@
+.build
+/Code-TidyAll-Plugin-SortLines-IPAddresses*
+local/
+*.swp
+.tidyall.d/
